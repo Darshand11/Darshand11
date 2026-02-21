@@ -56,8 +56,8 @@ Pixel-perfect landing page clones to practice frontend development.
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: 
+- 📧 Email:devredarshan47@gmail.com
 
 ---
 
