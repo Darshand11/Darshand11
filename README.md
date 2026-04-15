@@ -1,7 +1,7 @@
 # Hi 👋 I'm Darsh Devre
 
 🚀 **Java Full Stack Developer (Fresher)**  
-💻 Passionate about building scalable backend systems and clean, responsive user interfaces.
+💻 Passionate about building scalable backend systems and clean, responsive user interfaces..
 
 ---
 
